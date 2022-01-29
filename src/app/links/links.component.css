@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://www.wallpapertip.com/wmimgs/16-166825_cage-mma.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo {
+    width: 90px;
+}
+
+#name {
+    font-family: 'round', 'arial', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    background-color: #000;
+}
+
+.border {
+    padding-top: 5px;
+    background-color: black;
+    transition: ease-in-out .3s;
+    border-radius: 45px;
+
+}
+
+.border:hover {
+    transform: scale(1.05);
+}
+
+.icono {
+    width: 70px;
+    margin-left: -15px;
+}
+
+#center {
+    line-height: 70px;
+    margin-left: -10%;
+}
+
+a {
+    color: white;
+}
+
+.iconosnav {
+    width: 50px;
+    transition: ease-in-out .3s;
+}
+
+.iconosnav:hover {
+    transform: scale(1.05);
+}

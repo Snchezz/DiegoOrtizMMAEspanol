@@ -1,0 +1,10 @@
+@font-face {
+    font-family: round;
+    src: url(assets/fonts/round.otf) format("opentype");
+  }
+  
+
+  .sidenav-overlay {
+    display: block; 
+    opacity: 0 !important;
+}
